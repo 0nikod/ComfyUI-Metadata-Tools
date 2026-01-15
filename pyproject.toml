@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "comfyui_metadata_tools"
-version = "0.0.1"
+version = "0.0.2"
 description = "Tools about metadata."
 authors = [
-  {name = "ComfyUI-Metadata-Tools", email = "dniko0@outlook.com"}
+  {name = "0nikod", email = "dniko0@outlook.com"}
 ]
 readme = "README.md"
 license = {text = "MIT license"}
@@ -30,9 +30,9 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/0nikod/comfyui_metadata_tools"
-BugTracker = "https://github.com/0nikod/comfyui_metadata_tools/issues"
-Documentation = "https://github.com/0nikod/comfyui_metadata_tools/wiki"
+Repository = "https://github.com/0nikod/ComfyUI-Metadata-Tools"
+BugTracker = "https://github.com/0nikod/ComfyUI-Metadata-Tools/issues"
+Documentation = "https://github.com/0nikod/ComfyUI-Metadata-Tools/wiki"
 
 
 [tool.comfy]
@@ -40,7 +40,7 @@ PublisherId = "0nikod"
 DisplayName = "ComfyUI Metadata Tools"
 Icon = ""
 Tags = []
-Repository = "https://github.com/0nikod/comfyui_metadata_tools"
+Repository = "https://github.com/0nikod/ComfyUI-Metadata-Tools"
 
 includes = []
 

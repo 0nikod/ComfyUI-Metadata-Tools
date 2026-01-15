@@ -36,8 +36,8 @@
 2.  **手动安装**:
     ```bash
     cd ComfyUI/custom_nodes
-    git clone https://github.com/dniko0/comfyui_metadata_tools
-    cd comfyui_metadata_tools
+    git clone https://github.com/dniko0/ComfyUI-Metadata-Tools
+    cd ComfyUI-Metadata-Tools
     pip install -r requirements.txt
     ```
 
