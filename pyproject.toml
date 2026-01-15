@@ -36,7 +36,7 @@ Documentation = "https://github.com/0nikod/ComfyUI-Metadata-Tools/wiki"
 
 
 [tool.comfy]
-PublisherId = "0nikod"
+PublisherId = "dniko0"
 DisplayName = "ComfyUI Metadata Tools"
 Icon = ""
 Tags = []
