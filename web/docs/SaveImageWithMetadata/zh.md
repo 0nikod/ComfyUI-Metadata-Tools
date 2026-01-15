@@ -5,7 +5,7 @@
 ## 输入
 
 - **images** (图像): 要保存的图像。
-- **metadata_text** (元数据文本): 包含要嵌入的元数据的字符串或 JSON 对象。如果是有效的 JSON，它将被解析并作为键值对添加；否则，它将作为 "UserMetadata" 条目添加。
+- **metadata_text** (元数据文本): (可选) 包含要嵌入的元数据的字符串或 JSON 对象。如果留空，节点将尝试读取附加在输入图像张量上的元数据（例如来自 **Set Image Metadata** 或 **Load Image (Metadata)** 节点的元数据）。
 - **filename_prefix** (文件名首缀): 保存文件的前缀。
 
 ## 功能

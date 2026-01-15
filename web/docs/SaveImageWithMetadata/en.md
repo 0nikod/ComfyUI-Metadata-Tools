@@ -5,7 +5,7 @@ This node saves images to the output folder while embedding custom metadata prov
 ## Inputs
 
 - **images**: The images to be saved.
-- **metadata_text**: A string or JSON object containing the metadata you want to embed. If it's valid JSON, it will be parsed and added as key-value pairs; otherwise, it will be added as a "UserMetadata" entry.
+- **metadata_text**: (Optional) A string or JSON object containing the metadata you want to embed. If left empty, the node will attempt to read metadata attached to the input image tensors (e.g., from **Set Image Metadata** or **Load Image (Metadata)**).
 - **filename_prefix**: The prefix for the saved file.
 
 ## Features
