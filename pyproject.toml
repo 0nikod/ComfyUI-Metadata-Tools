@@ -36,11 +36,11 @@ Documentation = "https://github.com/0nikod/comfyui_metadata_tools/wiki"
 
 
 [tool.comfy]
-PublisherId = "0nikod"
+PublisherId = "dniko0"
 DisplayName = "ComfyUI Metadata Tools"
 Icon = ""
 Tags = []
-Repository = "https://github.com/0nikod/comfyui_metadata_tools"
+Repository = "https://github.com/0nikod/ComfyUI-Metadata-Tools"
 
 includes = []
 
